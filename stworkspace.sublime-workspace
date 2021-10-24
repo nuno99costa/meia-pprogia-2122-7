@@ -1,0 +1,912 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"faro",
+				"images/faro-probe.png"
+			],
+			[
+				"his",
+				"hist"
+			],
+			[
+				"levene",
+				"leveneTest"
+			],
+			[
+				"kruska",
+				"kruskal.test"
+			],
+			[
+				"te",
+				"test"
+			],
+			[
+				"shap_",
+				"shap_nam"
+			],
+			[
+				"s",
+				"sample_uk"
+			],
+			[
+				"shapi",
+				"shapiro.test"
+			],
+			[
+				"sample",
+				"sample_ptr"
+			],
+			[
+				"total",
+				"total_cases_by_continent"
+			],
+			[
+				"alb",
+				"albania_ntpt"
+			],
+			[
+				"albania",
+				"albania_ntpt"
+			],
+			[
+				"st",
+				"chapters/mainmatter/state-art/related-works"
+			],
+			[
+				"KC_B",
+				"KC_BSPC"
+			],
+			[
+				"Pro",
+				"ProbCruz"
+			],
+			[
+				"load",
+				"load_schedules"
+			],
+			[
+				"l",
+				"load_schedules"
+			],
+			[
+				"assert",
+				"assert_routes"
+			],
+			[
+				"load_",
+				"load_schedules"
+			],
+			[
+				"obt",
+				"obterEscalonamento"
+			],
+			[
+				"Prob",
+				"ProbMut"
+			],
+			[
+				"isrel",
+				"isrelief\tlocal var"
+			],
+			[
+				"abrevia",
+				"abreviaturaNos"
+			],
+			[
+				"adic",
+				"adicionarPercursos"
+			],
+			[
+				"obter",
+				"obterSugestao"
+			],
+			[
+				"asserta",
+				"assertaNos1"
+			],
+			[
+				"lin",
+				"linhas_url"
+			],
+			[
+				"procurar",
+				"procurar_horario"
+			],
+			[
+				"pro",
+				"procurar_horario"
+			],
+			[
+				"melhor",
+				"melhor_sol_tempo"
+			],
+			[
+				"procur",
+				"procurar_horario_1"
+			],
+			[
+				"Hora",
+				"HorarioInicial"
+			],
+			[
+				"procu",
+				"procurar_horario_1"
+			],
+			[
+				"Horar",
+				"HorarioInicial1"
+			],
+			[
+				"HorarioI",
+				"HorarioInicial"
+			],
+			[
+				"melh",
+				"melhor_sol_tempo"
+			],
+			[
+				"tabu",
+				"tabularx"
+			],
+			[
+				"noRep",
+				"noRepoInstance\tlet"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"guardar",
+				"guardarNos\tmethod"
+			],
+			[
+				"perc",
+				"percursosLinha\tlocal var"
+			],
+			[
+				"se",
+				"segmentos\tconst"
+			],
+			[
+				"percurso",
+				"percursoDTO\tconst"
+			],
+			[
+				"lista",
+				"listaSegmentos\tlocal var"
+			],
+			[
+				"tipoV",
+				"tipoViaturaOrError\tconst"
+			],
+			[
+				"e",
+				"error\tproperty"
+			],
+			[
+				"next",
+				"NextFunction"
+			],
+			[
+				"INo",
+				"INoService"
+			],
+			[
+				"findb",
+				"findByNome\tmethod"
+			],
+			[
+				"node",
+				"nodeList\tparameter"
+			],
+			[
+				"segmento",
+				"segmentoGuardado\tconst"
+			],
+			[
+				"ISe",
+				"ISegmentoDTO\talias"
+			],
+			[
+				"I",
+				"INoDTO\talias"
+			],
+			[
+				"IN",
+				"INoRepo\talias"
+			],
+			[
+				"dis",
+				"distanciaNos\tproperty"
+			],
+			[
+				"sege",
+				"segmento"
+			],
+			[
+				"seg",
+				"segmentoGuardado\tlocal var"
+			],
+			[
+				"p",
+				"push\tmethod"
+			],
+			[
+				"ti",
+				"tipoViaturaDTO\tconst"
+			],
+			[
+				"t",
+				"tipoViaturaResult"
+			],
+			[
+				"tip",
+				"tipoViaturaDTO"
+			],
+			[
+				"tipo",
+				"tipoCombustivelAtual"
+			],
+			[
+				"in",
+				"ingerirGLX"
+			],
+			[
+				"tipoTr",
+				"tipoTripulanteService"
+			],
+			[
+				"tipoTri",
+				"tipoTripulanteRepo"
+			],
+			[
+				"tipoT",
+				"tipoTripulanteController"
+			],
+			[
+				"sec",
+				"section\tSection"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/R/R.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R-UTF-8.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/R-UTF-8.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"pro",
+				"Project: Add Folder"
+			],
+			[
+				"latex",
+				"LaTeXTools: Delete temporary files"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ride",
+				"R-IDE: Exec"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list pacl",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"format",
+				"Formatter: Beautify With Beautysh"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"lsp",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lspenab",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"rbox",
+				"Preferences: R-Box Settings"
+			],
+			[
+				"latextools",
+				"LaTeXTools: Delete temporary files"
+			],
+			[
+				"clear ",
+				"LaTeXTools: Clear current bibliography cache"
+			],
+			[
+				"LIVERE",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"reload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"mardow",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"toggle",
+				"View: Toggle Menu"
+			],
+			[
+				"delet",
+				"LaTeXTools: Delete temporary files"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"clear",
+				"LaTeXTools: Clear document cache"
+			],
+			[
+				"dele",
+				"LaTeXTools: Delete temporary files"
+			],
+			[
+				"clean",
+				"LaTeXTools: Clear document cache"
+			],
+			[
+				"delete",
+				"LaTeXTools: Delete temporary files"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"war",
+				"Word Wrap: Toggle"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"formatt",
+				"Formatter: Beautify With Perltidy"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"latextoo",
+				"LaTeXTools: Open Detexify"
+			],
+			[
+				"term",
+				"Terminal: Open in project folder"
+			],
+			[
+				"t",
+				"View: Toggle Menu"
+			],
+			[
+				"to",
+				"View: Toggle Menu"
+			],
+			[
+				"togg",
+				"View: Toggle Menu"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"open",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"coment",
+				"Toggle Comment"
+			],
+			[
+				"remoc",
+				"Package Control: Remove Package"
+			],
+			[
+				"typescr",
+				"TypeScript: Show Error List"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"block",
+				"Toggle Block Comment"
+			],
+			[
+				"termina",
+				"Terminal: Open in project folder"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"TERminal",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"packag",
+				"Package Control: Remove Channel"
+			],
+			[
+				"bibt",
+				"Set Syntax: BibLaTeX"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 438.0,
+		"history":
+		[
+			"'C:\\Program Files\\MiKTeX\\miktex\\bin\\x64\\lualatex.EXE' -interaction=nonstopmode -synctex=1 main.tex",
+			"latexmk -cd -f -lualatex -interaction=nonstopmode -synctex=1 main.tex",
+			"latexmk.EXE -cd -f -lualatex -interaction=nonstopmode -synctex=1 main.tex",
+			"C:\\texlive\\2019\\bin\\win32\\latexmk.EXE -cd -f -lualatex -interaction=nonstopmode -synctex=1 main.tex"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Documents/1171584-ISEP/MEIA/Ano 1/PPROGIA/meia-pprogia-2122-7"
+	],
+	"file_history":
+	[
+		"/E/Documents/1171584-ISEP/MEIA/Ano 1/PPROGIA/meia-pprogia-2122-7/glossary.tex",
+		"/E/Documents/1171584-ISEP/MEIA/Ano 1/PPROGIA/meia-pprogia-2122-7/main.tex",
+		"/E/Documents/1171584-ISEP/SEI2021/sei2021-report/refs.bib",
+		"/E/Documents/1171584-ISEP/SEI2021/sei2021-report/main.tex",
+		"/Y/docker/caddy/Caddyfile",
+		"/Y/docker/ghost/Dockerfile",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/chapters/mainmatter/state-art/related-works.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/chapters/mainmatter/introduction.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/chapters/mainmatter/introduction/context.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/chapters/frontmatter/abstract.tex",
+		"/C/Program Files/MiKTeX/tex/latex/biblatex/biblatex.sty",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 5/ALGAV/Práticas Laboratoriais/Ficha 3 - UNFINISHED/pl3.pl",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 5/ALGAV/Práticas Laboratoriais/Ficha 3 - UNFINISHED/pl3_lapr5.pl",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 5/ALGAV/Práticas Laboratoriais/Ficha 2 - UNFINISHED/pl2.pl",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 5/ALGAV/Práticas Laboratoriais/Ficha 1/ficha1_3_BC_paises.pl",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 5/ALGAV/Práticas Laboratoriais/Ficha 1/ficha1_4.pl",
+		"/E/Documents/1171584-ISEP/LEI/Ano 2/Semestre 4/LPROG/PL2/main.tex",
+		"/C/Users/Nuno/qmk_firmware/keyboards/cutie_club/borsdorf/keymaps/via/keymap.c",
+		"/Y/docker/caddy/.env",
+		"/C/Users/Nuno/AppData/Local/Temp/7zOC9DE7515/README.md",
+		"/E/Downloads/xTeVe-2.2.0.200/README.md",
+		"/C/Users/Nuno/qmk_firmware/keyboards/cutie_club/borsdorf/readme.md",
+		"/C/Users/Nuno/qmk_firmware/keyboards/cutie_club/borsdorf/keymaps/via/rules.mk",
+		"/E/Documents/Currículo/en/MIM.FMUP/resume/resume.tex",
+		"/C/Users/Nuno/qmk_firmware/keyboards/cutie_club/borsdorf/borsdorf.h",
+		"/C/Users/Nuno/qmk_firmware/keyboards/cutie_club/borsdorf/config.h",
+		"/C/Users/Nuno/Desktop/August Taylor.mp4",
+		"/E/Documents/Currículo/en/ANTARES/resume/resume.tex",
+		"/E/Documents/Currículo/pt/ANTARES/curriculo/currículo.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-presentation/Presentation Notes.md",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-presentation/main.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/chapters/mainmatter/implementation/evaluation.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/chapters/mainmatter/design/design.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/main.pdf",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-overlead/main.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-overlead/chapters/mainmatter/implementation.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-overlead/chapters/mainmatter/design/design.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-overlead/chapters/mainmatter/analysis/requirements.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-overlead/chapters/frontmatter/abstract.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-overlead/chapters/mainmatter/analysis.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-overlead/chapters/mainmatter/analysis/problem-space.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-overlead/chapters/mainmatter/state-art/related-works.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-overlead/chapters/mainmatter/state-art/existing-tech.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-overlead/chapters/mainmatter/introduction/report-structure.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-overlead/images/c2.png",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-overlead/glossary.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-overlead/chapters/mainmatter/introduction/problem-description.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-overlead/chapters/mainmatter/conclusions.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-overlead/chapters/mainmatter/implementation/evaluation.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-ov",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-overlead/chapters/mainmatter/design.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-overlead/chapters/mainmatter/implementation/tests.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-overlead/chapters/mainmatter/state-art.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-overlead/chapters/mainmatter/introduction/context.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-overlead/packages.sty",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-overlead/chapters/endmatter/appendix.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-overlead/chapters/frontmatter/acknowledgements.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/.github/workflows/main.yml",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/.github/workflows/texlive_workaround.sh",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/chapters/mainmatter/analysis/problem-space.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/chapters/mainmatter/introduction/problem-description.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/chapters/mainmatter/analysis/requirements.tex",
+		"/C/Users/Nuno/Desktop/NewAlgorithm/17_lhtop2/lhtop2.fcd",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/ANADI/Trabalho Prático 2/R-files/4.1.R",
+		"/C/Users/Nuno/AppData/Roaming/Sublime Text 3/Packages/User/R-UTF-8.sublime-build",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/ANADI/Trabalho Prático 2/Relatório/references.bib",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/ANADI/Trabalho Prático 2/Relatório/IEEEtran.cls",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/ANADI/Trabalho Prático 2/Relatório/conference_101719.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/CORGA/corga-report-2021-2/resumo.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/CORGA/corga-report-2021-2/introducao.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/CORGA/corga-report-2021-2/conclusao.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/CORGA/corga-report-2021-2/rev_literatura.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/CORGA/corga-report-2021-2/refs.bib",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/CORGA/corga-report-2021-2/main.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/chapters/mainmatter/state-art.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/main.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/packages.sty",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/bibliography/introduction.bib",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/glossary.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/bibliography/stateofart.bib",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/chapters/mainmatter/state-art/existing-tech.tex",
+		"/C/Users/Nuno/anaconda3/pkgs/comtypes-1.1.7-py38_1001/Lib/site-packages/comtypes/test/test_wmi.py",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/chapters/frontmatter/acknowledgements.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/chapters/frontmatter/inscription.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/code/parameter.tunning/config.yaml",
+		"/C/Users/Nuno/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/chapters/mainmatter/analysis.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/report-examples/Lia thesis.pdf",
+		"/E/Downloads/bitwarden_export_20210223181805.json",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/chapters/mainmatter/introduction/report-structure.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/ANADI/Trabalho Prático/Relatório/conference_101719.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/ANADI/Trabalho Prático/Relatório/conference_101719.pdf",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/main.gls",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/chapters/mainmatter/analysis-design/problem-space.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/Documentos/pesti-report-2021/chapters/mainmatter/analysis-design/requirements.tex",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/code/parameter.tunning/main.py",
+		"/C/Users/Nuno/Desktop/NewAlgorithm/06_Les Sheet Metal/Les Sheet Metal_DevMar.fcd",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/PESTI/code/parameter.tunning/data.json",
+		"/E/Documents/1171584-ISEP/LEI/Ano 2/Semestre 4/ESOFT/esoft-2019-2020-1dp-1171584-1181132-1170467-1192091/docs/IT1/UC1_RegistarOrganizacao.md",
+		"/E/Documents/1171584-ISEP/LEI/Ano 2/Semestre 4/ESOFT/esoft-2019-2020-1dp-1171584-1181132-1170467-1192091/docs/IT1/README.md",
+		"/E/Documents/1171584-ISEP/LEI/Ano 2/Semestre 4/ESOFT/esoft-2019-2020-1dp-1171584-1181132-1170467-1192091/docs/README.md",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/ANADI/Trabalho Prático/R-files/4.4/4.4.r",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/ANADI/Trabalho Prático/R-files/4.3/4.3.r",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/ANADI/Trabalho Prático/R-files/4.2/4.2.r",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/ANADI/Trabalho Prático/R-files/4.1/4.1.a.png",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/ANADI/Trabalho Prático/R-files/4.4/4.4.b_homocedasticidade.png",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/ANADI/Trabalho Prático/R-files/4.4/4.4.b.png",
+		"/C/Users/Nuno/qmk_firmware/keyboards/lily58/rules.mk",
+		"/C/Users/Nuno/qmk_firmware/keyboards/lily58/rev1/rules.mk",
+		"/C/Users/Nuno/qmk_firmware/keyboards/lily58/light/config.h",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/CORGA/corga-report-2021/main.tex",
+		"/C/Users/Nuno/qmk_firmware/keyboards/lily58/rev1/split_util.c",
+		"/C/Users/Nuno/qmk_firmware/keyboards/lily58/rev1/rev1.c",
+		"/C/Users/Nuno/qmk_firmware/keyboards/lily58/rev1/matrix.c",
+		"/C/Users/Nuno/qmk_firmware/keyboards/lily58/rev1/info.json",
+		"/C/Users/Nuno/qmk_firmware/keyboards/lily58/rev1/config.h",
+		"/C/Users/Nuno/qmk_firmware/keyboards/lily58/lily58.h",
+		"/C/Users/Nuno/qmk_firmware/keyboards/lily58/lily58.c",
+		"/C/Users/Nuno/qmk_firmware/keyboards/lily58/serial.c",
+		"/C/Users/Nuno/qmk_firmware/keyboards/lily58/config.h",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/ANADI/Trabalho Prático/Relatório/references.bib",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/ANADI/Trabalho Prático/R-files/4.1/4.1.r",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/ANADI/Trabalho Prático/R-files/4.2/4.2.txt",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/ANADI/Trabalho Prático/R-files/4.2/result_4.2.a.txt",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/ANADI/Trabalho Prático/4_3.R",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/ANADI/Trabalho Prático/R-files/4.2.r",
+		"/E/Documents/1171584-ISEP/LEI/Ano 3/Semestre 6/ANADI/Trabalho Prático/R-files/4.1.r",
+		"/C/Windows/System32/drivers/etc/hosts"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 655.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "E:\\Documents\\1171584-ISEP\\MEIA\\Ano 1\\PPROGIA\\meia-pprogia-2122-7"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 221.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.errorlist":
+	{
+		"height": 228.0
+	},
+	"output.exec":
+	{
+		"height": 519.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 258.0
+	},
+	"output.markdown":
+	{
+		"height": 180.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

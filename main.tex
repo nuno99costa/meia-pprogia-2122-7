@@ -1,0 +1,141 @@
+% !TEX options=--shell-escape
+\documentclass[10pt,titlepage]{article}
+
+\usepackage{packages}
+\pgfplotsset{compat=1.17}
+
+% BIBLIOGRAPHY
+\addbibresource{bibliography.bib}
+% GLOSSARIES
+\makeglossaries
+\input{glossary}
+
+
+%MACROS
+\newcommand{\faro}[0]{FARO\textsuperscript{\textregistered}}
+
+% BIBSORT
+\DeclareSortingTemplate{nyc}{
+  \sort{
+    \field{presort}
+  }
+  \sort[final]{
+    \field{sortkey}
+  }
+  \sort{
+    \field{sortname}
+    \field{author}
+    \field{editor}
+    \field{translator}
+    \field{sorttitle}
+    \field{title}
+  }
+  \sort{
+    \field{sortyear}
+    \field{year}
+  }
+  \sort{\citeorder}
+}
+
+% FOOTER
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\footrulewidth}{0pt}    
+\renewcommand{\headrulewidth}{0pt}
+\rfoot{\thepage}
+
+\fancypagestyle{default_style}{
+    \fancyhf{}
+    \renewcommand{\footrulewidth}{1pt}
+    \renewcommand{\headrulewidth}{0pt}
+    \lfoot{Nuno Costa}
+    \rfoot{\thepage}
+}
+
+% IMAGES
+\graphicspath{ {./images/} }
+
+% FRONTMATTER/MAINMATTER
+\makeatletter
+
+\newcommand\frontmatter{%
+    \cleardoublepage
+  %\@mainmatterfalse
+  \pagenumbering{roman}}
+
+\newcommand\mainmatter{%
+    \cleardoublepage
+ % \@mainmattertrue
+  \pagenumbering{arabic}}
+
+\newcommand\backmatter{%
+  \if@openright
+    \cleardoublepage
+  \else
+    \clearpage
+  \fi
+ % \@mainmatterfalse
+   }
+
+\makeatother
+
+\setcounter{tocdepth}{3} 
+\setcounter{secnumdepth}{2}
+
+\definecolor{lightblue}{RGB}{173, 216, 230}
+
+% DOCUMENT
+\begin{document}
+\frontmatter
+\begin{titlepage}
+\newgeometry{bottom=3.12cm}
+   \begin{center}
+        \vspace*{1cm}
+
+        \includegraphics[width=8.9916cm]{images/DEI_logo.png}
+
+        \vfill
+        \textbf{\huge Preventive Maintenance\\ In The Factory Floor }
+        \vspace{0.3cm}
+        \\{\large PPROGIA-MEIA}
+	    \vspace{0.7cm}
+        
+        {\Large 2021/2022}
+        \vspace{1.6cm}
+        \\\textbf{\large 1171584 - Nuno Costa}
+        \\\textbf{\large 1180943 - José Araújo}
+        \\\textbf{\large 1210056 - Diogo Formosinho}
+        \\\textbf{\large 1210458 - Thiago Farias}
+
+        \vfill
+
+        \includegraphics[width=8.001cm]{images/ISEP_logo.png}
+   \end{center}
+\restoregeometry
+\end{titlepage}
+
+\newpage
+
+\tableofcontents
+
+\newpage
+
+\listoffigures
+
+\listoftables
+
+\printglossary[nonumberlist,title=Glossary and Acronyms]
+
+\newpage
+
+\mainmatter
+
+\input{introduction}
+
+\FloatBarrier
+
+\newpage
+
+\printbibliography
+
+\end{document}
