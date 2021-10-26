@@ -7,12 +7,8 @@
 % BIBLIOGRAPHY
 \addbibresource{bibliography.bib}
 % GLOSSARIES
-\makeglossaries
+\makenoidxglossaries
 \input{glossary}
-
-
-%MACROS
-\newcommand{\faro}[0]{FARO\textsuperscript{\textregistered}}
 
 % BIBSORT
 \DeclareSortingTemplate{nyc}{
@@ -125,7 +121,8 @@
 
 \listoftables
 
-\printglossary[nonumberlist,title=Glossary and Acronyms]
+\printnoidxglossary[type=acronym]
+\printacronyms
 
 \newpage
 
